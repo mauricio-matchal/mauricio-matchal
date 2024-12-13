@@ -10,7 +10,7 @@ Me chamo Maurício Matchal, desenvolvedor full-stack e designer UI e UX nas hora
   - Uso de Figma, Framer e Pacote Adobe para criação de interfaces e diagramas UI e UX;
 - 📫 Entre em contato comigo! >
   - E-mail: mauriciomatchal@gmail.com, mauriciopassos@ufba.br;
-  - Linkedin: linkedin.com/in/mauricio-matchal; 
+  - Linkedin: linkedin.com/in/mauricio-matchal ; 
 
 <!--
 **mauricio-matchal/mauricio-matchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
