@@ -2,12 +2,11 @@
 
 Me chamo **Maurício Matchal**, desenvolvedor **full-stack** e **designer UI e UX** nas horas vagas.
 
----
+😄 Meus pronomes >>
+  - Ele, dele...
 
 🔭 Projetos em que estou trabalhando >>
   - Atipicidados: Um projeto de um sistema **full-stack** que auxilia a comunidade externa, unindo **impacto social** e **tecnologia**;
-
----
 
 🌱 Tecnologias que trabalho e estudo >>
   - Frontend: **React**, **Next.JS**, **TypeScript**, **TailwindCSS** e **Prismic CMS**;
@@ -15,13 +14,9 @@ Me chamo **Maurício Matchal**, desenvolvedor **full-stack** e **designer UI e U
   - Explorando o **Docker** para containerização;
   - Uso de **Figma**, **Framer** e **Pacote Adobe** para criação de interfaces e diagramas **UI e UX**;
 
----
-
 📫 Entre em contato comigo! >>
   - E-mail: mauriciomatchal@gmail.com, mauriciopassos@ufba.br;
   - LinkedIn: [www.linkedin.com/in/mauricio-matchal](https://www.linkedin.com/in/mauricio-matchal);
-
----
 
 📊 Minhas estatísticas do GitHub >>
 ![Maurício's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauricio-matchal&show_icons=true&theme=radical)
