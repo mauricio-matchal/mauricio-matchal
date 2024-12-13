@@ -2,12 +2,12 @@
 
 Me chamo **Maurício Matchal**, desenvolvedor **full-stack** e **designer UI e UX** nas horas vagas. Podem me tratar como "ele".
 
-🚧 **Projetos em que estou trabalhando** >>
+🚧 **Projetos em que estou trabalhando** ->
   - **Atipicidados**: Um projeto de um sistema **full-stack** que auxilia a comunidade externa, unindo **impacto social** e **tecnologia**;
 
 <br/>
 
-🧠 **Áreas do desenvolvimento que estudo** >>
+🧠 **Áreas do desenvolvimento que estudo** ->
   - Frontend: **React**, **Next.JS**, **TypeScript**, **JavaScript**, **TailwindCSS** e **Prismic CMS**;
   - Backend: **Node.js**, **TypeScript**, **Prisma** e **Express**;
   - Explorando o **Docker** para containerização;
@@ -15,13 +15,13 @@ Me chamo **Maurício Matchal**, desenvolvedor **full-stack** e **designer UI e U
 
 <br/>
 
-📫 **Entre em contato comigo!** >>
+📫 **Entre em contato comigo!** ->
   - E-mail: mauriciomatchal@gmail.com, mauriciopassos@ufba.br;
   - LinkedIn: [www.linkedin.com/in/mauricio-matchal](https://www.linkedin.com/in/mauricio-matchal);
 
 <br/>
 
-⚙️ **Tecnologias com que trabalho** >>
+⚙️ **Tecnologias com que trabalho** ->
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>&nbsp;
@@ -35,7 +35,7 @@ Me chamo **Maurício Matchal**, desenvolvedor **full-stack** e **designer UI e U
 
 <br/>
 
-📊 **Minhas estatísticas do GitHub** >>
+📊 **Minhas estatísticas do GitHub** ->
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-matchal&layout=compact&theme=radical)
