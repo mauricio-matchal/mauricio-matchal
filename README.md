@@ -1,18 +1,31 @@
 ## Olá! 👋
-Me chamo Maurício Matchal, desenvolvedor full-stack e designer UI e UX nas horas vagas.
+
+Me chamo **Maurício Matchal**, desenvolvedor **full-stack** e **designer UI e UX** nas horas vagas.
+
 ---
-- 🔭 Projetos em que estou trabalhando >>
-  - Atipicidados: Um projeto de um sistema full-stack que auxilia a comunidade externa, unindo impacto social e tecnologia;
+
+🔭 Projetos em que estou trabalhando >>
+  - Atipicidados: Um projeto de um sistema **full-stack** que auxilia a comunidade externa, unindo **impacto social** e **tecnologia**;
+
 ---
-- 🌱 Tecnologias que trabalho e estudo >>
-  - Frontend: React, Next.JS, TypeScript, TailwindCSS e Prismic CMS;
-  - Backend: Node.js, TypeScript, Prisma e Express;
-  - Explorando o Docker para containerização;
-  - Uso de Figma, Framer e Pacote Adobe para criação de interfaces e diagramas UI e UX;
+
+🌱 Tecnologias que trabalho e estudo >>
+  - Frontend: **React**, **Next.JS**, **TypeScript**, **TailwindCSS** e **Prismic CMS**;
+  - Backend: **Node.js**, **TypeScript**, **Prisma** e **Express**;
+  - Explorando o **Docker** para containerização;
+  - Uso de **Figma**, **Framer** e **Pacote Adobe** para criação de interfaces e diagramas **UI e UX**;
+
 ---
-- 📫 Entre em contato comigo! >>
+
+📫 Entre em contato comigo! >>
   - E-mail: mauriciomatchal@gmail.com, mauriciopassos@ufba.br;
-  - Linkedin: www.linkedin.com/in/mauricio-matchal; 
+  - LinkedIn: [www.linkedin.com/in/mauricio-matchal](https://www.linkedin.com/in/mauricio-matchal);
+
+---
+
+📊 Minhas estatísticas do GitHub >>
+![Maurício's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauricio-matchal&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-matchal&layout=compact&theme=radical)
 
 <!--
 **mauricio-matchal/mauricio-matchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
