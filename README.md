@@ -37,13 +37,14 @@ Me chamo **Maurício Matchal**, desenvolvedor **full-stack** e **designer UI e U
       </p>
     </td>
     <td>
-      <p align="left">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mauricio-matchal&show_icons=true&theme=radical" alt="Maurício's GitHub Stats" />
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-matchal&layout=compact&theme=radical" alt="Top Langs" />
+      <p align="center">
+        ![Maurício's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauricio-matchal&show_icons=true&theme=radical)<br/>
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-matchal&layout=compact&theme=radical)
       </p>
     </td>
   </tr>
 </table>
+
 
 <!--
 **mauricio-matchal/mauricio-matchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
