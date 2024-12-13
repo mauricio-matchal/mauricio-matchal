@@ -2,16 +2,16 @@
 
 Me chamo **Maurício Matchal**, desenvolvedor **full-stack** e **designer UI e UX** nas horas vagas. Podem me tratar como "ele".
 
-🔭 Projetos em que estou trabalhando >>
+🚧 Projetos em que estou trabalhando >>
   - **Atipicidados**: Um projeto de um sistema **full-stack** que auxilia a comunidade externa, unindo **impacto social** e **tecnologia**;
 
 <br/>
 
-🌱 Tecnologias que trabalho e estudo >>
+🧠 Tecnologias que trabalho e estudo >>
   - Frontend: **React**, **Next.JS**, **TypeScript**, **TailwindCSS** e **Prismic CMS**;
   - Backend: **Node.js**, **TypeScript**, **Prisma** e **Express**;
   - Explorando o **Docker** para containerização;
-  - Uso de **Figma**, **Framer** e **Pacote Adobe** para criação de interfaces e diagramas **UI e UX**;
+  - Usando **Figma**, **Framer** e **Adobe XD/Illustrator** para criação de interfaces e diagramas **UI e UX**;
 
 <br/>
 
