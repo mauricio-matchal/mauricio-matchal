@@ -7,7 +7,7 @@ Me chamo **Maurício Matchal**, desenvolvedor **full-stack** e **designer UI e U
 
 <br/>
 
-🧠 **Áreas do desenvolvimento que estudo** ->
+🧠 **Áreas de desenvolvimento que estudo** ->
   - Frontend: **React**, **Next.JS**, **TypeScript**, **JavaScript**, **TailwindCSS** e **Prismic CMS**;
   - Backend: **Node.js**, **TypeScript**, **Prisma** e **Express**;
   - Explorando o **Docker** para containerização;
