@@ -38,7 +38,7 @@ Me chamo **Maurício Matchal**, desenvolvedor **full-stack** e **designer UI e U
 📊 **Minhas estatísticas do GitHub** ->
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-matchal&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-matchal&layout=compact&theme=github_dark_dimmed)
 
 
 <!--
