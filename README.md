@@ -1,6 +1,6 @@
-## Olá! 👋
+## Olá, me chamo **Maurício Matchal**!
 
-Me chamo **Maurício Matchal**, desenvolvedor **full-stack** e **designer UI e UX** nas horas vagas. Pode me tratar como "ele".
+Sou um desenvolvedor **full-stack** e **designer UI e UX** nas horas vagas. Pode me tratar como "ele".
 
 🚧 **Projetos em que estou trabalhando** ->
   - **Atipicidados**: Um projeto de um sistema **full-stack** que auxilia a comunidade externa, unindo **impacto social** e **tecnologia**;
