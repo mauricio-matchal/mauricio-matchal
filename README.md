@@ -42,11 +42,10 @@ Me chamo **Maurício Matchal**, desenvolvedor **full-stack** e **designer UI e U
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="C++"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS"/>
 </p>
 
-<br/>
-
-📊 **Minhas estatísticas do GitHub** ->
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-matchal&layout=compact&theme=github_dark&show_icons=true)
