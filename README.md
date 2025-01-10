@@ -8,10 +8,15 @@ Me chamo **Maurício Matchal**, desenvolvedor **full-stack** e **designer UI e U
 <br/>
 
 🧠 **Áreas de desenvolvimento que estudo** ->
-  - Frontend: **React**, **Next.JS**, **TypeScript**, **JavaScript**, **TailwindCSS** e **Prismic CMS**;
-  - Backend: **Node.js**, **TypeScript**, **Prisma** e **Express**;
-  - Estudando o **Expo** e **React Native** para desenvolvimento mobile para iOS e Android;
+  **Frontend:** 
+  - **React**, **Next.JS**, **TypeScript**, **JavaScript**, **TailwindCSS** e **Prismic CMS**;
+  **Backend:** 
+  - **Node.js**, **TypeScript**, **Prisma** e **Express**;
+  **Mobile:**
+  - Estudando o **Expo** e **React Native** para iOS e Android;
+  **DevOps:**
   - Explorando o **Docker** para containerização;
+  **Design:**
   - Usando **Figma**, **Framer** e **Adobe XD/Illustrator** para criação de interfaces e diagramas **UI e UX**;
 
 <br/>
@@ -39,7 +44,7 @@ Me chamo **Maurício Matchal**, desenvolvedor **full-stack** e **designer UI e U
 📊 **Minhas estatísticas do GitHub** ->
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-matchal&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-matchal&layout=compact&theme=github_dark&show_icons=true)
 
 
 <!--
