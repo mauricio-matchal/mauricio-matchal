@@ -11,16 +11,12 @@ Me chamo **Maurício Matchal**, desenvolvedor **full-stack** e **designer UI e U
 
 **Frontend:**
 - **React**, **Next.JS**, **TypeScript**, **JavaScript**, **TailwindCSS** e **Prismic CMS**;
-
 **Backend:** 
 - **Node.js**, **TypeScript**, **Prisma** e **Express**;
-
 **Mobile:**
 - Estudando o **Expo** e **React Native** para iOS e Android;
-
 **DevOps:**
 - Explorando o **Docker** para containerização;
-
 **Design:**
 - Usando **Figma**, **Framer** e **Adobe XD/Illustrator** para criação de interfaces e diagramas **UI e UX**;
 
