@@ -27,8 +27,11 @@ Sou um desenvolvedor **full-stack** e **designer UI e UX** nas horas vagas. Pode
 <br/>
 
 📫 **Entre em contato comigo!** ->
-  - E-mail: mauriciomatchal@gmail.com, mauriciopassos@ufba.br;
-  - LinkedIn: [www.linkedin.com/in/mauricio-matchal](https://www.linkedin.com/in/mauricio-matchal);
+<div> 
+  <a href="https://www.instagram.com/mauricio.matchal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mauriciomatchal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mauricio-matchal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 <br/>
 
