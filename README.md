@@ -6,7 +6,7 @@ Sou desenvolvedor **full-stack** e **designer UI/UX** desde os 15 anos. Desenho 
 
 🚧 **No que estou trabalhando agora**
 
-- **SIGAA – STI/UFBA**: desenvolvo funcionalidades full-stack no sistema acadêmico da UFBA, que tem mais de **500 mil pessoas cadastradas**, com **Java**, **JSF** e **SQL**. Também atuo nos módulos de Produção Intelectual e gestão de diplomas.
+- **SIGAA – STI/UFBA**: desenvolvo funcionalidades full-stack no sistema acadêmico da UFBA, que tem mais de **500 mil pessoas cadastradas**, com **Java**, **JSF** e **SQL**. 
   *O código fica no GitLab institucional da UFBA, que é privado, por isso essas contribuições não aparecem aqui.*
 - **Lachmat**: um e-commerce para uma marca fictícia de grife, que desenhei do zero no **Figma** e estou construindo agora.
 
