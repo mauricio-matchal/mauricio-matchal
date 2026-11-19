@@ -12,15 +12,6 @@ Sou desenvolvedor **full-stack** e **designer UI/UX** desde os 15 anos. Desenho 
 
 <br/>
 
-⭐ **Projetos em destaque**
-
-- **[Atipicid@dos](link-do-repo)**: sistema web **full-stack** de impacto social que centraliza dados escolares e de saúde de crianças autistas, feito em parceria com o Centro Palmares. Usa **React**, **TypeScript**, **PostgreSQL**, **Prisma** e **Docker**, e foi apresentado no Congresso UFBA 2024.
-- **CargoSafe**: prova de conceito em **Flutter**, feita em 1 semana, que monitora via Bluetooth um sensor antifurto instalado em caminhões. Depois virou um módulo do app principal em **React Native**.
-- **[Simulador de Escalonamento](link-do-repo)**: simulador dos algoritmos FIFO, SJF, EDF e Round-Robin, em **React** e **TypeScript**.
-- **[API com Observabilidade](link-do-repo)**: API em **FastAPI** e **PostgreSQL** com testes, métricas no **Prometheus**, dashboards no **Grafana**, SLOs e alertas.
-
-<br/>
-
 🧠 **Tecnologias**
 
 **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Prismic CMS
